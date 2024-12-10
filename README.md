@@ -1,2 +1,2 @@
 # Simulacro_Proyecto
-Esto es un simulacro de qué tenemos que hacer para el lunes.
+**Proyecto práctico** asignatura CIPDB de la UCO, curso 24/25.
